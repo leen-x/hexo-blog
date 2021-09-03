@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on LeenX</title>
-    <link>http://example.org/posts/</link>
+    <link>http://leenx.top/posts/</link>
     <description>Recent content in Posts on LeenX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Sep 2021 16:57:10 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Sep 2021 16:57:10 +0800</lastBuildDate><atom:link href="http://leenx.top/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://leenx.top/posts/my-first-post/</link>
       <pubDate>Thu, 02 Sep 2021 16:57:10 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://leenx.top/posts/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>我的Demo文件</title>
-      <link>http://example.org/posts/demo/</link>
+      <link>http://leenx.top/posts/demo/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/demo/</guid>
+      <guid>http://leenx.top/posts/demo/</guid>
       <description>我的第一页博文 这是我的第一页博文 哈哈哈哈
 标题1 这是图片：</description>
     </item>
