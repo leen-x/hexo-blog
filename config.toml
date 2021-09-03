@@ -1,0 +1,4 @@
+baseURL = 'http://leenx.top/'
+languageCode = 'zh-CN'
+title = 'LeenX'
+theme = "newsroom"
